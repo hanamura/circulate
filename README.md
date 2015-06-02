@@ -5,7 +5,7 @@ Circulate a number into given range.
 ## Example
 
 ```javascript
-var circulate = require('circulate');
+var circulate = require('@hanamura/circulate');
 
 circulate(0, 0, 360);
 // -> 0
