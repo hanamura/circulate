@@ -2,6 +2,12 @@
 
 Circulate a number into given range.
 
+## Installation
+
+```sh
+npm install @hanamura/circulate --save
+```
+
 ## Example
 
 ```javascript
