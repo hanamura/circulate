@@ -1,4 +1,4 @@
-# circulate
+# circulate [![Build Status](https://travis-ci.org/hanamura/circulate.svg?branch=master)](https://travis-ci.org/hanamura/circulate)
 
 Circulate a number into given range.
 
