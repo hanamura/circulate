@@ -8,7 +8,15 @@ Circulate a number into given range.
 npm install @hanamura/circulate --save
 ```
 
+## Usage
+
+### circulate(number, start, end)
+
+Returns normalized `number` between `start` (inclusive) and `end` (exclusive).
+
 ## Example
+
+Keeping angles between 0 and 360 degrees (or -180 and 180 degrees):
 
 ```javascript
 var circulate = require('@hanamura/circulate');
